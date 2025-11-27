@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/swaggo/swag"
+	"github.com/SebastianOsuna/swag"
 	"golang.org/x/sync/errgroup"
 )
 
